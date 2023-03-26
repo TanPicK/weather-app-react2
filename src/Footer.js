@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer class="col-md-12 footer">
       <a
-        href="https://github.com/TanPicK/weather-app-project"
+        href="https://github.com/TanPicK/weather-app-react2"
         target="_blank"
         rel="noopener noreferrer"
         title="Git Hub poject page"

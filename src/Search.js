@@ -18,7 +18,8 @@ export default function Search() {
             type="submit"
             className="form-control Search-button shadow-sm"
           >
-            <i className="Fa-solid Fa-magnifying-glass"></i>
+            {" "}
+            Search
           </button>
         </div>
         <div className="col-sm-2 Current-button-column">
