@@ -1,0 +1,12 @@
+.Main-temperature {
+  font-size: 50px;
+  text-align: right;
+  break-inside: avoid-column;
+  padding-right: 0;
+}
+.Unit {
+  position: relative;
+  break-inside: avoid-column;
+  bottom: 26px;
+  font-size: 17px;
+}
