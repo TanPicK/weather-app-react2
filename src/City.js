@@ -1,5 +1,4 @@
 import React from "react";
-import "./City.css";
 import Emoji from "./Emoji";
 
 export default function City() {
